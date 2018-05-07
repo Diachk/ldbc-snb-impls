@@ -18,6 +18,7 @@
     <module>snb-interactive-nop</module>
     <module>snb-interactive-titan</module>
     <module>snb-interactive-torc</module>
+    <module>snb-interactive-janusgraph</module>
   </modules>
   <dependencies>
     <dependency>
