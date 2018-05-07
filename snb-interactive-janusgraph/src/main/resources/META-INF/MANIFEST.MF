@@ -1,0 +1,1 @@
+Main-Class: net.ellitron.ldbcsnbimpls.interactive.janusgraph.JanusGraphLoader
